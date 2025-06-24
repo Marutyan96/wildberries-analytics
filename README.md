@@ -22,7 +22,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Marutyan96 /wildberries-analytics.git
+git clone https://github.com/Marutyan96/wildberries-analytics.git
 cd wildberries-analytics
 
 2. Запуск бэкенда
